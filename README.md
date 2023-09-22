@@ -10,12 +10,6 @@ Skills: Python / HTML / CSS / JavaScript / C /  SQL /  SAS
 - 🔭 Hackathon Experience: Imperial College AI Hack 2021 (First Prize), Deloitte-Google Hackathon (Second Prize)
 
 
-Project experiences include:
-- **Masters Project**: Particle Event Generation using Generative Adversarial Networks.
-  - Developed a novel 2-dimensional Generative Adversarial Network (GAN) to simulate particle events in detectors, using
-projected spatial and energy data.
-- A log-likelihood fit for extracting neutrino oscillation parameters
-  - Developed optimisation algorithms to calculate neutrino parameters
 
 
 
