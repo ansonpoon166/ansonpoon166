@@ -4,10 +4,10 @@ I am Anson. I am a recent Physics graduate from Imperial College London and now 
 
 Skills: Python / HTML / CSS / JavaScript / C /  SQL /  SAS
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning Data Structures and Algorithms, Web Development, Natural Language Processing 
-- 💬 Ask me about Physics / Machine Learning / Numerical Methods 
 
+- 🌱 I’m currently learning Data Structures and Algorithms, Web Development, Natural Language Processing 
+- 💬 Ask me about Physics / Machine Learning / Numerical Methods
+- 🔭 Hackathon Experience: Imperial College AI Hack 2021 (First Prize), Deloitte-Google Hackathon (Second Prize)
 
 
 Project experiences include:
