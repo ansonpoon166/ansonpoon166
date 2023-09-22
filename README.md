@@ -1,8 +1,14 @@
-### Hi there 👋
-
+### Hi there 👋, my name is Anson
+#### Data Analytics Consultant; Physics @ Imperial
 I am Anson. I am a recent Physics graduate from Imperial College London and now I am working as a Data Analytics Consultant in London.
 
-I am experienced in applying numerical and machine learning algorithms to Physics problems. 
+Skills: Python / HTML / CSS / JavaScript / C /  SQL /  SAS
+
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning Data Structures and Algorithms, Web Development, Natural Language Processing 
+- 💬 Ask me about Physics / Machine Learning / Numerical Methods 
+
+
 
 Project experiences include:
 - **Masters Project**: Particle Event Generation using Generative Adversarial Networks.
@@ -10,7 +16,6 @@ Project experiences include:
 projected spatial and energy data.
 - A log-likelihood fit for extracting neutrino oscillation parameters
   - Developed optimisation algorithms to calculate neutrino parameters
--   
 
 
 
