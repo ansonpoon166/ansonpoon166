@@ -6,7 +6,7 @@ Skills: Python / HTML / CSS / JavaScript / C /  SQL /  SAS
 
 
 - 🌱 I’m currently learning Data Structures and Algorithms, Web Development, Natural Language Processing 
-- 💬 Ask me about Physics / Machine Learning / Numerical Methods
+- 💬 Ask me about Physics / Machine Learning / Numerical Methods / Generative Adversarial Networks (GANs)
 - 🔭 Hackathon Experience: Imperial College AI Hack 2021 (First Prize), Deloitte-Google Hackathon (Second Prize)
 
 
